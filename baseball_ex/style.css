@@ -1,0 +1,31 @@
+html {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.container {
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: 50px;
+    color: rgb(119, 175, 224)
+  }
+
+#word {
+font-size: 30px;
+color: orange;
+}
+
+#order {
+  font-size: 35px;
+  color: rgb(231, 135, 186);
+}

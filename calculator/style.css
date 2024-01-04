@@ -1,0 +1,30 @@
+html {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#result {
+    width: 230px; 
+    height: 70px; 
+    margin: 3px; 
+    text-align: right 
+}
+
+#operator { 
+    width: 70px; 
+    height: 70px; 
+    margin: 3px; 
+    text-align: center 
+}
+
+button { 
+    width: 70px; 
+    height: 70px; 
+    margin: 3px 
+}
